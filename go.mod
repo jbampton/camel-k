@@ -21,7 +21,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/onsi/gomega v1.19.0
 	github.com/openshift/api v3.9.1-0.20190927182313-d4a64ec2cbd8+incompatible
-	github.com/operator-framework/api v0.13.0
+	github.com/operator-framework/api v0.14.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.50.0
 	github.com/prometheus/client_golang v1.12.1
@@ -47,11 +47,11 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	gopkg.in/inf.v0 v0.9.1
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.22.5
-	k8s.io/apiextensions-apiserver v0.22.5
-	k8s.io/apimachinery v0.22.5
+	k8s.io/api v0.23.0
+	k8s.io/apiextensions-apiserver v0.23.0
+	k8s.io/apimachinery v0.23.0
 	k8s.io/cli-runtime v0.22.5
-	k8s.io/client-go v0.22.5
+	k8s.io/client-go v0.23.0
 	k8s.io/gengo v0.0.0-20211129171323-c02415ce4185
 	k8s.io/klog/v2 v2.40.1
 	k8s.io/kubectl v0.22.5
@@ -59,7 +59,7 @@ require (
 	knative.dev/eventing v0.29.0
 	knative.dev/pkg v0.0.0-20220118160532-77555ea48cd4
 	knative.dev/serving v0.29.0
-	sigs.k8s.io/controller-runtime v0.10.3
+	sigs.k8s.io/controller-runtime v0.11.0
 )
 
 replace (
