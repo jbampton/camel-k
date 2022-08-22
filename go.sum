@@ -1101,8 +1101,8 @@ github.com/radovskyb/watcher v1.0.7 h1:AYePLih6dpmS32vlHfhCeli8127LzkIgwJGcwwe8t
 github.com/radovskyb/watcher v1.0.7/go.mod h1:78okwvY5wPdzcb1UYnip1pvrZNIVEIh/Cm+ZuvsUYIg=
 github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
 github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475/go.mod h1:bCqnVzQkZxMG4s8nGwiZ5l3QUCyqpo9Y+/ZMZ9VjZe4=
-github.com/redhat-developer/service-binding-operator v1.0.1 h1:YHqfpox6effDWwy2Mhyj5Nzrd1o4DLgS/hZSZsL2LUk=
-github.com/redhat-developer/service-binding-operator v1.0.1/go.mod h1:CR6QrBvM9WSXnRoUFedg9ZKn+G+95TaLJ5CvNZU0kYY=
+github.com/redhat-developer/service-binding-operator v1.1.1 h1:RpvkWNCRdks4ZMRTUGz25zRRo4jeXMVOsslBlniNqL4=
+github.com/redhat-developer/service-binding-operator v1.1.1/go.mod h1:QchNRAnmYTPt7k46/p1zA4anuxqWX6Or2NbQzPry5jk=
 github.com/rickb777/date v1.13.0 h1:+8AmwLuY1d/rldzdqvqTEg7107bZ8clW37x4nsdG3Hs=
 github.com/rickb777/date v1.13.0/go.mod h1:GZf3LoGnxPWjX+/1TXOuzHefZFDovTyNLHDMd3qH70k=
 github.com/rickb777/plural v1.2.1 h1:UitRAgR70+yHFt26Tmj/F9dU9aV6UfjGXSbO1DcC9/U=
@@ -2042,7 +2042,6 @@ k8s.io/code-generator v0.18.3/go.mod h1:TgNEVx9hCyPGpdtCWA34olQYLkh3ok9ar7XfSsr8
 k8s.io/code-generator v0.21.3/go.mod h1:K3y0Bv9Cz2cOW2vXUrNZlFbflhuPvuadW6JdnN6gGKo=
 k8s.io/code-generator v0.22.1/go.mod h1:eV77Y09IopzeXOJzndrDyCI88UBok2h6WxAlBwpxa+o=
 k8s.io/code-generator v0.22.2/go.mod h1:eV77Y09IopzeXOJzndrDyCI88UBok2h6WxAlBwpxa+o=
-k8s.io/code-generator v0.22.5 h1:jn+mYXI5q7rzo7Bz/n8xZIgbe61SeXlIjU5jA8jLVps=
 k8s.io/code-generator v0.22.5/go.mod h1:sbdWCOVob+KaQ5O7xs8PNNaCTpbWVqNgA6EPwLOmRNk=
 k8s.io/component-base v0.18.2/go.mod h1:kqLlMuhJNHQ9lz8Z7V5bxUUtjFZnrypArGl58gmDfUM=
 k8s.io/component-base v0.18.3/go.mod h1:bp5GzGR0aGkYEfTj+eTY0AN/vXTgkJdQXjNTTVUaa3k=
