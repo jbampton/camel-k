@@ -12,7 +12,7 @@ require (
 	github.com/fatih/camelcase v1.0.0
 	github.com/fatih/structs v1.1.0
 	github.com/gertd/go-pluralize v0.2.0
-	github.com/go-logr/logr v1.2.2
+	github.com/go-logr/logr v1.2.3
 	github.com/google/go-github/v32 v32.1.0
 	github.com/google/uuid v1.3.0
 	github.com/jpillora/backoff v1.0.0
@@ -23,7 +23,7 @@ require (
 	github.com/openshift/api v3.9.1-0.20190927182313-d4a64ec2cbd8+incompatible
 	github.com/operator-framework/api v0.13.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.50.0
+	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.60.0
 	github.com/prometheus/client_golang v1.12.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.34.0
@@ -43,23 +43,23 @@ require (
 	go.uber.org/multierr v1.6.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	gopkg.in/inf.v0 v0.9.1
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.22.5
-	k8s.io/apiextensions-apiserver v0.22.5
-	k8s.io/apimachinery v0.22.5
+	k8s.io/api v0.25.0
+	k8s.io/apiextensions-apiserver v0.25.0
+	k8s.io/apimachinery v0.25.0
 	k8s.io/cli-runtime v0.22.5
-	k8s.io/client-go v0.22.5
+	k8s.io/client-go v0.25.0
 	k8s.io/gengo v0.0.0-20211129171323-c02415ce4185
-	k8s.io/klog/v2 v2.40.1
+	k8s.io/klog/v2 v2.80.0
 	k8s.io/kubectl v0.22.5
-	k8s.io/utils v0.0.0-20211208161948-7d6a63dca704
+	k8s.io/utils v0.0.0-20220823124924-e9cbc92d1a73
 	knative.dev/eventing v0.29.0
 	knative.dev/pkg v0.0.0-20220118160532-77555ea48cd4
 	knative.dev/serving v0.29.0
-	sigs.k8s.io/controller-runtime v0.10.3
+	sigs.k8s.io/controller-runtime v0.12.3
 )
 
 replace (
