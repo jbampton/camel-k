@@ -24,9 +24,9 @@ require (
 	github.com/operator-framework/api v0.13.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.50.0
-	github.com/prometheus/client_golang v1.12.1
-	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.34.0
+	github.com/prometheus/client_golang v1.20.0
+	github.com/prometheus/client_model v0.6.1
+	github.com/prometheus/common v0.55.0
 	github.com/radovskyb/watcher v1.0.7
 	github.com/redhat-developer/service-binding-operator v1.0.1
 	github.com/rs/xid v1.4.0
@@ -38,13 +38,13 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.11.0
 	github.com/stoewer/go-strcase v1.2.0
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.9.0
 	go.uber.org/automaxprocs v1.4.0
 	go.uber.org/multierr v1.6.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+	golang.org/x/oauth2 v0.21.0
+	golang.org/x/sync v0.7.0
+	golang.org/x/term v0.21.0
 	gopkg.in/inf.v0 v0.9.1
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.22.5
