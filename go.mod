@@ -1,6 +1,6 @@
 module github.com/apache/camel-k/v2
 
-go 1.23
+go 1.24.0
 
 require (
 	github.com/Masterminds/semver v1.5.0
@@ -16,7 +16,7 @@ require (
 	github.com/jpillora/backoff v1.0.0
 	github.com/magiconair/properties v1.8.9
 	github.com/mattn/go-shellwords v1.0.12
-	github.com/onsi/gomega v1.36.2
+	github.com/onsi/gomega v1.41.0
 	// go get github.com/openshift/api@release-4.15
 	github.com/openshift/api v0.0.0-20240228005710-4511c790cc60
 	github.com/operator-framework/api v0.26.0
@@ -36,9 +36,9 @@ require (
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/oauth2 v0.25.0
-	golang.org/x/sync v0.10.0
-	golang.org/x/term v0.28.0
-	golang.org/x/text v0.21.0
+	golang.org/x/sync v0.19.0
+	golang.org/x/term v0.39.0
+	golang.org/x/text v0.33.0
 	golang.org/x/time v0.9.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.30.8
@@ -88,7 +88,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/gnostic-models v0.6.8 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/go-containerregistry v0.20.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
@@ -129,18 +129,19 @@ require (
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/vbatts/tar-split v0.11.3 // indirect
 	go.opencensus.io v0.24.0 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	golang.org/x/crypto v0.47.0 // indirect
 	golang.org/x/exp v0.0.0-20240808152545-0cdaa3abc0fa // indirect
-	golang.org/x/mod v0.22.0 // indirect
-	golang.org/x/net v0.33.0 // indirect
-	golang.org/x/sys v0.29.0 // indirect
-	golang.org/x/tools v0.28.0 // indirect
+	golang.org/x/mod v0.31.0 // indirect
+	golang.org/x/net v0.49.0 // indirect
+	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/tools v0.40.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	google.golang.org/api v0.183.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240814211410-ddb44dafa142 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240814211410-ddb44dafa142 // indirect
 	google.golang.org/grpc v1.67.1 // indirect
-	google.golang.org/protobuf v1.36.1 // indirect
+	google.golang.org/protobuf v1.36.7 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
